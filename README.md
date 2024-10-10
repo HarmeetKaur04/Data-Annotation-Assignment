@@ -6,8 +6,6 @@ This project focuses on extracting data from PDF invoices using Python. It demon
 
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
 - [Parts Overview](#parts-overview)
   - [Part 1: Understanding Requirements and Data Structure](#part-1-understanding-requirements-and-data-structure)
   - [Part 2: Creating a Template for Data Extraction](#part-2-creating-a-template-for-data-extraction)
