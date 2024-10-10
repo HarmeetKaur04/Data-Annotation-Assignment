@@ -58,11 +58,6 @@ Contributions to this project are welcome! Please feel free to submit a pull req
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
 
-### Additional Notes:
-- Make sure to update any file paths or names in the **Usage** section if your script has a different name.
-- Feel free to expand on any section with more details specific to your implementation or additional features you might want to highlight.
-- If you have any libraries or tools that need to be installed, consider adding them to the **Requirements** section for clarity. 
 
 This `README.md` should serve as a clear guide for anyone who wants to understand and use your project! Let me know if you need further modifications or additional content!
