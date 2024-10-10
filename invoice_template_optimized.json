@@ -1,0 +1,49 @@
+{
+    "Header": {
+        "Vendor Name": {
+            "rule": "Find any of Vendor|Supplier|Company and extract the following value"
+        },
+        "Customer Name": {
+            "rule": "Find any of Customer|Client and extract the following value"
+        },
+        "Invoice Number": {
+            "rule": "Find any of Invoice\\ No|Invoice\\ \\#|Bill\\ No and extract the following value"
+        },
+        "Invoice Date": {
+            "rule": "Find any of Date|Invoice\\ Date|Billing\\ Date and extract the following value"
+        },
+        "Customer Number": {
+            "rule": "Find any of Customer\\ No|Client\\ ID|Account\\ No and extract the following value"
+        },
+        "VAT Number": {
+            "rule": "Find any of VAT\\ No|Tax\\ ID and extract the following value"
+        },
+        "Invoice Period": {
+            "rule": "Find any of Period|Invoice\\ Period|Billing\\ Period and extract the following value"
+        },
+        "Bank Details": {
+            "IBAN": {
+                "rule": "Find any of IBAN and extract the following value"
+            },
+            "BIC": {
+                "rule": "Find any of BIC|Swift\\ Code and extract the following value"
+            }
+        }
+    },
+    "Table": {
+        "Table": {
+            "Service Description": {
+                "rule": "Find any of Description|Service|Item and extract the following value"
+            },
+            "Quantity": {
+                "rule": "Find any of Quantity|Qty and extract the following value"
+            },
+            "Unit Price": {
+                "rule": "Find any of Unit\\ Price|Price\\ per\\ Item|Cost and extract the following value"
+            },
+            "Total Amount per Item": {
+                "rule": "Find any of Total|Amount|Line\\ Total and extract the following value"
+            }
+        }
+    }
+}
