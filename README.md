@@ -59,5 +59,3 @@ Contributions to this project are welcome! Please feel free to submit a pull req
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-
-This `README.md` should serve as a clear guide for anyone who wants to understand and use your project! Let me know if you need further modifications or additional content!
